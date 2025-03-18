@@ -18,7 +18,7 @@
 12. 组合经理 - 做出最终交易决策并生成订单
 
 <img width="1020" alt="Screenshot 2025-03-08 at 4 45 22 PM" src="https://github.com/user-attachments/assets/d8ab891e-a083-4fed-b514-ccc9322a3e57" />
->
+
 
 注意：本系统仅模拟交易决策，不进行真实交易。
 
