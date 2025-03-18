@@ -1,4 +1,4 @@
-<center style="font-weight:bold; font-size:33px;">AI 对冲基金</center>
+#  AI 对冲基金 
 
 本项目是一个AI驱动对冲基金的概念验证。项目目标是探索利用AI进行交易决策的可能性。本项目仅用于教育目的，不涉及真实交易或投资。
 
